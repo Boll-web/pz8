@@ -1,4 +1,6 @@
 # pz8
+<img width="977" height="338" alt="image" src="https://github.com/user-attachments/assets/cb90e605-a73b-4fd9-9531-7a321f2b5dd2" />
+
 EX1  
 
     #include <iostream>
